@@ -1,4 +1,5 @@
 Here is the updated `README.md` with screenshots included. Please note that since I can't access your images, you should replace the placeholder links with the actual image URLs.
+![image](https://github.com/user-attachments/assets/efed4860-8515-4b49-91bb-2ddf58384e94)
 
 ```markdown
 # Planet Info Website
