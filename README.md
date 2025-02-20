@@ -1,4 +1,4 @@
-Here is the updated `README.md` with screenshots included. Please note that since I can't access your images, you should replace the placeholder links with the actual image URLs.
+
 https://silver-lamp-7v75jx5jqx7cxv9p-5000.app.github.dev/
 
 ![image](https://github.com/user-attachments/assets/dd8168ae-5006-4c7b-9408-3954b12760c8)
