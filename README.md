@@ -1,9 +1,12 @@
-Sure! Here is a sample `README.md` for your website:
+Here is the updated `README.md` with screenshots included. Please note that since I can't access your images, you should replace the placeholder links with the actual image URLs.
 
 ```markdown
 # Planet Info Website
 
 Welcome to the Planet Info website! This platform provides detailed information about various planets in our solar system.
+
+![Planet Info Homepage](link-to-your-homepage-screenshot.png)
+*Screenshot of the homepage*
 
 ## Features
 
@@ -11,11 +14,17 @@ Welcome to the Planet Info website! This platform provides detailed information 
 - **Interactive Experience:** Enjoy an engaging and interactive user interface to explore planet data.
 - **Rotational Pause:** A feature that allows users to pause the rotation of the planets for better observation.
 
+![Planet Details](link-to-your-planet-details-screenshot.png)
+*Screenshot of the planet details page*
+
 ## Usage
 
 1. **Visit the Website:** Navigate to [Planet Info Website](https://96c406eb-a2a6-47eb-ae2f-ddbb1475e586-00-2lzabj16n3jtm.spock.replit.dev/).
 2. **Explore Planets:** Click on the planets to get detailed information.
 3. **Pause Rotation:** Use the 'Pause Rotation' feature to pause the spinning of the planets for detailed observation.
+
+![Pause Rotation](link-to-your-pause-rotation-screenshot.png)
+*Screenshot of the pause rotation feature*
 
 ## Technologies Used
 
@@ -57,4 +66,4 @@ Special thanks to the developers and contributors who made this project possible
 If you have any questions, feel free to reach out!
 ```
 
-You can customize this `README.md` further based on any specific details or instructions you have for your website. Happy coding! 🌟
+Remember to replace the placeholder links (`link-to-your-homepage-screenshot.png`, `link-to-your-planet-details-screenshot.png`, and `link-to-your-pause-rotation-screenshot.png`) with the actual URLs of your screenshots. Let me know if there's anything else you'd like to add or modify! 🚀
