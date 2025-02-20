@@ -1,12 +1,17 @@
 Here is the updated `README.md` with screenshots included. Please note that since I can't access your images, you should replace the placeholder links with the actual image URLs.
+![image](https://github.com/user-attachments/assets/dd8168ae-5006-4c7b-9408-3954b12760c8))
+*Screenshot of the homepage*
+![image](https://github.com/user-attachments/assets/6c8154d8-8b79-483b-a9eb-22da5c2ff594)
+*Screenshot of the planet details page*
+
 
 ```markdown
 # Planet Info Website
 
 Welcome to the Planet Info website! This platform provides detailed information about various planets in our solar system.
 
-![image](https://github.com/user-attachments/assets/dd8168ae-5006-4c7b-9408-3954b12760c8))
-*Screenshot of the homepage*
+
+
 
 ## Features
 
@@ -14,9 +19,7 @@ Welcome to the Planet Info website! This platform provides detailed information 
 - **Interactive Experience:** Enjoy an engaging and interactive user interface to explore planet data.
 - **Rotational Pause:** A feature that allows users to pause the rotation of the planets for better observation.
 
-![image](https://github.com/user-attachments/assets/6c8154d8-8b79-483b-a9eb-22da5c2ff594)
 
-*Screenshot of the planet details page*
 
 ## Usage
 
